@@ -1,0 +1,241 @@
+apts:
+    id: 1
+    name: apts / housing
+    permalink: apa
+    
+
+housing_swap:
+    id: 2
+    name: housing swap
+    permalink: swp
+    
+    
+housing_wanted:
+    id: 3
+    name: housing wanted
+    permalink: hsw
+    
+    
+office_commercial:
+    id: 4
+    name: office / commercial
+    permalink: off
+    
+    
+parking_storage:
+    id: 5
+    name: parking / storage
+    permalink: prk
+    
+    
+real_estate:
+    id: 6
+    name: real estate for sale
+    permalink: rfs
+    
+    
+rooms_shared:
+    id: 7
+    name: rooms / shared
+    permalink: rfs
+    
+    
+sublets_temporary:
+    id: 8
+    name: sublets / temporary
+    permalink: sub
+    
+    
+vacation_rentals:
+    id: 9
+    name: vacation rentals
+    permalink: vac
+    
+    
+    
+    
+barter:
+    id: 10
+    name: barter
+    permalink: bar
+    
+    
+bikes:
+    id: 11
+    name: bikes
+    permalink: bik
+    
+    
+boats:
+    id: 12
+    name: boats
+    permalink: boa
+    
+    
+business:
+    id: 13
+    name: business
+    permalink: bfs
+    
+    
+computer:
+    id: 14
+    name: computer
+    permalink: sys
+    
+    
+free:
+    id: 15
+    name: free
+    permalink: zip
+    
+    
+general:
+    id: 16
+    name: general
+    permalink: for
+    
+    
+jewelry:
+    id: 17
+    name: jewelry
+    permalink: jwl
+    
+    
+material:
+    id: 18
+    name: material
+    permalink: mat
+    
+    
+rvs:
+    id: 19
+    name: rvs
+    permalink: rvs
+    
+    
+sporting:
+    id: 20
+    name: sporting
+    permalink: spo
+    
+    
+tickets:
+    id: 21
+    name: tickets
+    permalink: tix
+    
+    
+tools:
+    id: 22
+    name: tools
+    permalink: tls
+    
+    
+wanted:
+    id: 23
+    name: wanted
+    permalink: wan
+    
+    
+arts_crafts:
+    id: 24
+    name: arts+crafts
+    permalink: art
+    
+    
+auto_parts:
+    id: 25
+    name: auto parts
+    permalink: pts
+    
+    
+baby_kids:
+    id: 26
+    name: baby+kids
+    permalink: bab
+    
+    
+cars_trucks:
+    id: 27
+    name: cars+trucks
+    permalink: car
+    
+    
+cds_dvds_vhs:
+    id: 28
+    name: cds/dvd/vhs
+    permalink: emd
+    
+    
+clothes_acc:
+    id: 29
+    name: clothes+acc
+    permalink: clo
+    
+    
+collectibles:
+    id: 30
+    name: collectibles
+    permalink: clt
+    
+    
+electronics:
+    id: 31
+    name: electronics
+    permalink: ele
+    
+    
+farm_garden:
+    id: 32
+    name: farm+garden
+    permalink: grd
+    
+    
+furniture:
+    id: 33
+    name: furniture
+    permalink: fur
+    
+    
+games_toys:
+    id: 34
+    name: games+toys
+    permalink: tag
+    
+    
+garage_sale:
+    id: 35
+    name: garage sale
+    permalink: gms
+    
+    
+household:
+    id: 36
+    name: household
+    permalink: hsh
+    
+    
+motorcycles:
+    id: 37
+    name: motorcycles
+    permalink: mcy
+    
+    
+music_instr:
+    id: 38
+    name: music instr
+    permalink: msg
+    
+    
+photo_video:
+    id: 39
+    name: photo+video
+    permalink: pho
+    
+    
+books:
+    id: 40
+    name: books
+    permalink: bks
+    

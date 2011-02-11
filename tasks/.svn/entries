@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="73"
+   name=""
+   committed-date="2008-04-05T13:02:43.455317Z"
+   url="svn+ssh://goodkarma@rubyforge.org/var/svn/chuckslist/lib/tasks"
+   last-author="goodkarma"
+   kind="dir"
+   uuid="bd10b052-61e0-4115-8f85-d5b82b27b118"
+   repos="svn+ssh://goodkarma@rubyforge.org/var/svn/chuckslist"
+   revision="85"/>
+<entry
+   committed-rev="73"
+   name="load_fixtures.rake"
+   text-time="2008-04-08T16:31:16.000000Z"
+   committed-date="2008-04-05T13:02:43.455317Z"
+   checksum="7ad172db0529ddbde128ed43b3bba705"
+   last-author="goodkarma"
+   kind="file"
+   prop-time="2008-04-08T16:31:16.000000Z"/>
+</wc-entries>
