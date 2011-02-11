@@ -80,12 +80,12 @@ ActionMailer::Base.delivery_method = :smtp
 
 #Email settings
 ActionMailer::Base.smtp_settings = {
-  :address  => "localhost",
-  :port     => 25,
-  :domain   => "yourdomain.com",
-  :authentication  => :login,
-  :user_name  => "mailuser@yourdomain.com",
-  :password  => "mailuserpassword"
+  :address => "smtp.gmail.com",
+  :port => 587,
+  :authentication => :plain,
+  :enable_starttls_auto => true,
+  :user_name => "info@hiringsimplified.com",
+  :password => "difficult"
 }
 
 require "will_paginate"
