@@ -1384,20 +1384,6 @@ writing / editing:
     parent_id: 7
     type: Subcategory
     
-[ETC]:
-    id: 201
-    name: [ETC]
-    permalink: [ETC]
-    parent_id: 7
-    type: Subcategory
-    
-[ part-time ]:
-    id: 202
-    name: [ part-time ]
-    permalink: [ part-time ]
-    parent_id: 7
-    type: Subcategory
-    
 gigs:
     id: 8
     name: gigs
