@@ -1,5 +1,5 @@
 community:
-    id:0
+    id: 0
     name: community
     
 activities:
@@ -73,7 +73,7 @@ classes:
     parent_id: 0
     
 personals:
-    id:1
+    id: 1
     name: personals
     
 strictly platonic:
@@ -122,7 +122,7 @@ rants and raves:
     parent_id: 1
     
 discussion forums:
-    id:2
+    id: 2
     name: discussion forums
     
 1099:
@@ -486,7 +486,7 @@ writers:
     parent_id: 2
     
 housing:
-    id:3
+    id: 3
     name: housing
     
 apts / housing:
@@ -535,7 +535,7 @@ real estate for sale:
     parent_id: 3
     
 for sale:
-    id:4
+    id: 4
     name: for sale
     
 appliances:
@@ -719,7 +719,7 @@ video gaming:
     parent_id: 4
     
 services:
-    id:5
+    id: 5
     name: services
     
 beauty:
@@ -823,7 +823,7 @@ write/ed/tr8:
     parent_id: 5
     
 jobs:
-    id:6
+    id: 6
     name: jobs
     
 accounting+finance:
@@ -981,18 +981,18 @@ writing / editing:
     name: writing / editing
     parent_id: 6
     
-ETC:
+[ETC]:
     id: 201
-    name: ETC
+    name: [ETC]
     parent_id: 6
     
-part-time:
+[ part-time ]:
     id: 202
-    name: part-time
+    name: [ part-time ]
     parent_id: 6
     
 gigs:
-    id:7
+    id: 7
     name: gigs
     
 crew:
