@@ -17,10 +17,9 @@
 </tr>
 <% for subcategory in @subcategories %>
   <tr style="background:white;color:green;font-weight:bold;font-size:13px;">
-    <td><%=h subcategory.name %></td>
-    <%# category = Category.find(subcategory.parent_id) %>
-    <td><%#=debug category %></td>
-    <td><%=h subcategory.permalink %></td>
+    <td><%=subcategory.name %></td>
+    <td><%=subcategory.category.name %></td>
+    <td><%=subcategory.permalink %></td>
           
     <td><%= link_to 'Edit', edit_subcategory_path(subcategory) %></td>
     <td><%= link_to 'Destroy', subcategory, :confirm => 'Are you sure?', :method => :delete %></td>
