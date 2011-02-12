@@ -17,7 +17,8 @@
 </tr>
 <% for subcategory in @subcategories %>
   <tr style="background:white;color:green;font-weight:bold;font-size:13px;">
-    <%=debug subcategory%>
+    <td><%=h subcategory.name %></td>
+   
   </tr>
 <% end %>
 </table>
