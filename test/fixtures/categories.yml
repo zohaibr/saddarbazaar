@@ -981,16 +981,6 @@ writing / editing:
     name: writing / editing
     parent_id: 6
     
-[ETC]:
-    id: 201
-    name: [ETC]
-    parent_id: 6
-    
-[ part-time ]:
-    id: 202
-    name: [ part-time ]
-    parent_id: 6
-    
 gigs:
     id: 7
     name: gigs
