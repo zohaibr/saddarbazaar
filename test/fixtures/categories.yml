@@ -2,41 +2,49 @@ community:
     id: 1
     name: community
     parent_id: 0
+    type: Category
     
 personals:
     id: 2
     name: personals
     parent_id: 0
+    type: Category
     
 discussion forums:
     id: 3
     name: discussion forums
     parent_id: 0
+    type: Category
     
 housing:
     id: 4
     name: housing
     parent_id: 0
+    type: Category
     
 for sale:
     id: 5
     name: for sale
     parent_id: 0
+    type: Category
     
 services:
     id: 6
     name: services
     parent_id: 0
+    type: Category
     
 jobs:
     id: 7
     name: jobs
     parent_id: 0
+    type: Category
     
 gigs:
     id: 8
     name: gigs
     parent_id: 0
+    type: Category
     
 activities:
     id: 10
