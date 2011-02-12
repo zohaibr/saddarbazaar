@@ -18,8 +18,6 @@
 <% for subcategory in @subcategories %>
   <tr style="background:white;color:green;font-weight:bold;font-size:13px;">
     <td><%=h subcategory.name %> <%=h subcategory.parent_id%></td>
-    <% category = Category.find(subcategory.parent_id) %>
-    <td><%=debug category %></td>
     <td><%=h subcategory.permalink %></td>
           
     <td><%= link_to 'Edit', edit_subcategory_path(subcategory) %></td>
