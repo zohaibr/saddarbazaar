@@ -1,1242 +1,1463 @@
 community:
     id: 1
     name: community
+    permalink: community
     parent_id: 0
     type: Category
     
 activities:
     id: 10
     name: activities
+    permalink: activities
     parent_id: 1
     type: Subcategory
     
 artists:
     id: 11
     name: artists
+    permalink: artists
     parent_id: 1
     type: Subcategory
     
 childcare:
     id: 12
     name: childcare
+    permalink: childcare
     parent_id: 1
     type: Subcategory
     
 general:
     id: 13
     name: general
+    permalink: general
     parent_id: 1
     type: Subcategory
     
 groups:
     id: 14
     name: groups
+    permalink: groups
     parent_id: 1
     type: Subcategory
     
 pets:
     id: 15
     name: pets
+    permalink: pets
     parent_id: 1
     type: Subcategory
     
 events:
     id: 16
     name: events
+    permalink: events
     parent_id: 1
     type: Subcategory
     
 lost+found:
     id: 17
     name: lost+found
+    permalink: lost+found
     parent_id: 1
     type: Subcategory
     
 musicians:
     id: 18
     name: musicians
+    permalink: musicians
     parent_id: 1
     type: Subcategory
     
 local news:
     id: 19
     name: local news
+    permalink: local news
     parent_id: 1
     type: Subcategory
     
 politics:
     id: 20
     name: politics
+    permalink: politics
     parent_id: 1
     type: Subcategory
     
 rideshare:
     id: 21
     name: rideshare
+    permalink: rideshare
     parent_id: 1
     type: Subcategory
     
 volunteers:
     id: 22
     name: volunteers
+    permalink: volunteers
     parent_id: 1
     type: Subcategory
     
 classes:
     id: 23
     name: classes
+    permalink: classes
     parent_id: 1
     type: Subcategory
     
 personals:
     id: 2
     name: personals
+    permalink: personals
     parent_id: 0
     type: Category
     
 strictly platonic:
     id: 24
     name: strictly platonic
+    permalink: strictly platonic
     parent_id: 2
     type: Subcategory
     
 women seek women:
     id: 25
     name: women seek women
+    permalink: women seek women
     parent_id: 2
     type: Subcategory
     
 women seeking men:
     id: 26
     name: women seeking men
+    permalink: women seeking men
     parent_id: 2
     type: Subcategory
     
 men seeking women:
     id: 27
     name: men seeking women
+    permalink: men seeking women
     parent_id: 2
     type: Subcategory
     
 men seeking men:
     id: 28
     name: men seeking men
+    permalink: men seeking men
     parent_id: 2
     type: Subcategory
     
 misc romance:
     id: 29
     name: misc romance
+    permalink: misc romance
     parent_id: 2
     type: Subcategory
     
 casual encounters:
     id: 30
     name: casual encounters
+    permalink: casual encounters
     parent_id: 2
     type: Subcategory
     
 missed connections:
     id: 31
     name: missed connections
+    permalink: missed connections
     parent_id: 2
     type: Subcategory
     
 rants and raves:
     id: 32
     name: rants and raves
+    permalink: rants and raves
     parent_id: 2
     type: Subcategory
     
 discussion forums:
     id: 3
     name: discussion forums
+    permalink: discussion forums
     parent_id: 0
     type: Category
     
 1099:
     id: 33
     name: 1099
+    permalink: 1099
     parent_id: 3
     type: Subcategory
     
 apple:
     id: 34
     name: apple
+    permalink: apple
     parent_id: 3
     type: Subcategory
     
 arts:
     id: 35
     name: arts
+    permalink: arts
     parent_id: 3
     type: Subcategory
     
 atheist:
     id: 36
     name: atheist
+    permalink: atheist
     parent_id: 3
     type: Subcategory
     
 autos:
     id: 37
     name: autos
+    permalink: autos
     parent_id: 3
     type: Subcategory
     
 beauty:
     id: 38
     name: beauty
+    permalink: beauty
     parent_id: 3
     type: Subcategory
     
 bikes:
     id: 39
     name: bikes
+    permalink: bikes
     parent_id: 3
     type: Subcategory
     
 celebs:
     id: 40
     name: celebs
+    permalink: celebs
     parent_id: 3
     type: Subcategory
     
 comp:
     id: 41
     name: comp
+    permalink: comp
     parent_id: 3
     type: Subcategory
     
 crafts:
     id: 42
     name: crafts
+    permalink: crafts
     parent_id: 3
     type: Subcategory
     
 diet:
     id: 43
     name: diet
+    permalink: diet
     parent_id: 3
     type: Subcategory
     
 divorce:
     id: 44
     name: divorce
+    permalink: divorce
     parent_id: 3
     type: Subcategory
     
 dying:
     id: 45
     name: dying
+    permalink: dying
     parent_id: 3
     type: Subcategory
     
 eco:
     id: 46
     name: eco
+    permalink: eco
     parent_id: 3
     type: Subcategory
     
 educ:
     id: 47
     name: educ
+    permalink: educ
     parent_id: 3
     type: Subcategory
     
 etiquet:
     id: 48
     name: etiquet
+    permalink: etiquet
     parent_id: 3
     type: Subcategory
     
 feedbk:
     id: 49
     name: feedbk
+    permalink: feedbk
     parent_id: 3
     type: Subcategory
     
 film:
     id: 50
     name: film
+    permalink: film
     parent_id: 3
     type: Subcategory
     
 fitness:
     id: 51
     name: fitness
+    permalink: fitness
     parent_id: 3
     type: Subcategory
     
 fixit:
     id: 52
     name: fixit
+    permalink: fixit
     parent_id: 3
     type: Subcategory
     
 food:
     id: 53
     name: food
+    permalink: food
     parent_id: 3
     type: Subcategory
     
 frugal:
     id: 54
     name: frugal
+    permalink: frugal
     parent_id: 3
     type: Subcategory
     
 gaming:
     id: 55
     name: gaming
+    permalink: gaming
     parent_id: 3
     type: Subcategory
     
 garden:
     id: 56
     name: garden
+    permalink: garden
     parent_id: 3
     type: Subcategory
     
 gifts:
     id: 57
     name: gifts
+    permalink: gifts
     parent_id: 3
     type: Subcategory
     
 haiku:
     id: 58
     name: haiku
+    permalink: haiku
     parent_id: 3
     type: Subcategory
     
 health:
     id: 59
     name: health
+    permalink: health
     parent_id: 3
     type: Subcategory
     
 help:
     id: 60
     name: help
+    permalink: help
     parent_id: 3
     type: Subcategory
     
 history:
     id: 61
     name: history
+    permalink: history
     parent_id: 3
     type: Subcategory
     
 housing:
     id: 62
     name: housing
+    permalink: housing
     parent_id: 3
     type: Subcategory
     
 jobs:
     id: 63
     name: jobs
+    permalink: jobs
     parent_id: 3
     type: Subcategory
     
 jokes:
     id: 64
     name: jokes
+    permalink: jokes
     parent_id: 3
     type: Subcategory
     
 kink:
     id: 65
     name: kink
+    permalink: kink
     parent_id: 3
     type: Subcategory
     
 l.t.r.:
     id: 66
     name: l.t.r.
+    permalink: l.t.r.
     parent_id: 3
     type: Subcategory
     
 legal:
     id: 67
     name: legal
+    permalink: legal
     parent_id: 3
     type: Subcategory
     
 linux:
     id: 68
     name: linux
+    permalink: linux
     parent_id: 3
     type: Subcategory
     
 loc pol:
     id: 69
     name: loc pol
+    permalink: loc pol
     parent_id: 3
     type: Subcategory
     
 m4m:
     id: 70
     name: m4m
+    permalink: m4m
     parent_id: 3
     type: Subcategory
     
 money:
     id: 71
     name: money
+    permalink: money
     parent_id: 3
     type: Subcategory
     
 motocy:
     id: 72
     name: motocy
+    permalink: motocy
     parent_id: 3
     type: Subcategory
     
 music:
     id: 73
     name: music
+    permalink: music
     parent_id: 3
     type: Subcategory
     
 npo:
     id: 74
     name: npo
+    permalink: npo
     parent_id: 3
     type: Subcategory
     
 open:
     id: 75
     name: open
+    permalink: open
     parent_id: 3
     type: Subcategory
     
 outdoor:
     id: 76
     name: outdoor
+    permalink: outdoor
     parent_id: 3
     type: Subcategory
     
 over 50:
     id: 77
     name: over 50
+    permalink: over 50
     parent_id: 3
     type: Subcategory
     
 p.o.c.:
     id: 78
     name: p.o.c.
+    permalink: p.o.c.
     parent_id: 3
     type: Subcategory
     
 parent:
     id: 79
     name: parent
+    permalink: parent
     parent_id: 3
     type: Subcategory
     
 pefo:
     id: 80
     name: pefo
+    permalink: pefo
     parent_id: 3
     type: Subcategory
     
 pets:
     id: 81
     name: pets
+    permalink: pets
     parent_id: 3
     type: Subcategory
     
 philos:
     id: 82
     name: philos
+    permalink: philos
     parent_id: 3
     type: Subcategory
     
 politic:
     id: 83
     name: politic
+    permalink: politic
     parent_id: 3
     type: Subcategory
     
 psych:
     id: 84
     name: psych
+    permalink: psych
     parent_id: 3
     type: Subcategory
     
 queer:
     id: 85
     name: queer
+    permalink: queer
     parent_id: 3
     type: Subcategory
     
 recover:
     id: 86
     name: recover
+    permalink: recover
     parent_id: 3
     type: Subcategory
     
 religion:
     id: 87
     name: religion
+    permalink: religion
     parent_id: 3
     type: Subcategory
     
 rofo:
     id: 88
     name: rofo
+    permalink: rofo
     parent_id: 3
     type: Subcategory
     
 science:
     id: 89
     name: science
+    permalink: science
     parent_id: 3
     type: Subcategory
     
 shop:
     id: 90
     name: shop
+    permalink: shop
     parent_id: 3
     type: Subcategory
     
 spirit:
     id: 91
     name: spirit
+    permalink: spirit
     parent_id: 3
     type: Subcategory
     
 sports:
     id: 92
     name: sports
+    permalink: sports
     parent_id: 3
     type: Subcategory
     
 t.v.:
     id: 93
     name: t.v.
+    permalink: t.v.
     parent_id: 3
     type: Subcategory
     
 tax:
     id: 94
     name: tax
+    permalink: tax
     parent_id: 3
     type: Subcategory
     
 testing:
     id: 95
     name: testing
+    permalink: testing
     parent_id: 3
     type: Subcategory
     
 transg:
     id: 96
     name: transg
+    permalink: transg
     parent_id: 3
     type: Subcategory
     
 travel:
     id: 97
     name: travel
+    permalink: travel
     parent_id: 3
     type: Subcategory
     
 vegan:
     id: 98
     name: vegan
+    permalink: vegan
     parent_id: 3
     type: Subcategory
     
 w4w:
     id: 99
     name: w4w
+    permalink: w4w
     parent_id: 3
     type: Subcategory
     
 wed:
     id: 100
     name: wed
+    permalink: wed
     parent_id: 3
     type: Subcategory
     
 wine:
     id: 101
     name: wine
+    permalink: wine
     parent_id: 3
     type: Subcategory
     
 women:
     id: 102
     name: women
+    permalink: women
     parent_id: 3
     type: Subcategory
     
 words:
     id: 103
     name: words
+    permalink: words
     parent_id: 3
     type: Subcategory
     
 writers:
     id: 104
     name: writers
+    permalink: writers
     parent_id: 3
     type: Subcategory
     
 housing:
     id: 4
     name: housing
+    permalink: housing
     parent_id: 0
     type: Category
     
 apts / housing:
     id: 105
     name: apts / housing
+    permalink: apts / housing
     parent_id: 4
     type: Subcategory
     
 rooms / shared:
     id: 106
     name: rooms / shared
+    permalink: rooms / shared
     parent_id: 4
     type: Subcategory
     
 sublets / temporary:
     id: 107
     name: sublets / temporary
+    permalink: sublets / temporary
     parent_id: 4
     type: Subcategory
     
 housing wanted:
     id: 108
     name: housing wanted
+    permalink: housing wanted
     parent_id: 4
     type: Subcategory
     
 housing swap:
     id: 109
     name: housing swap
+    permalink: housing swap
     parent_id: 4
     type: Subcategory
     
 vacation rentals:
     id: 110
     name: vacation rentals
+    permalink: vacation rentals
     parent_id: 4
     type: Subcategory
     
 parking / storage:
     id: 111
     name: parking / storage
+    permalink: parking / storage
     parent_id: 4
     type: Subcategory
     
 office / commercial:
     id: 112
     name: office / commercial
+    permalink: office / commercial
     parent_id: 4
     type: Subcategory
     
 real estate for sale:
     id: 113
     name: real estate for sale
+    permalink: real estate for sale
     parent_id: 4
     type: Subcategory
     
 for sale:
     id: 5
     name: for sale
+    permalink: for sale
     parent_id: 0
     type: Category
     
 appliances:
     id: 114
     name: appliances
+    permalink: appliances
     parent_id: 5
     type: Subcategory
     
 antiques:
     id: 115
     name: antiques
+    permalink: antiques
     parent_id: 5
     type: Subcategory
     
 barter:
     id: 116
     name: barter
+    permalink: barter
     parent_id: 5
     type: Subcategory
     
 bikes:
     id: 117
     name: bikes
+    permalink: bikes
     parent_id: 5
     type: Subcategory
     
 boats:
     id: 118
     name: boats
+    permalink: boats
     parent_id: 5
     type: Subcategory
     
 books:
     id: 119
     name: books
+    permalink: books
     parent_id: 5
     type: Subcategory
     
 business:
     id: 120
     name: business
+    permalink: business
     parent_id: 5
     type: Subcategory
     
 computer:
     id: 121
     name: computer
+    permalink: computer
     parent_id: 5
     type: Subcategory
     
 free:
     id: 122
     name: free
+    permalink: free
     parent_id: 5
     type: Subcategory
     
 furniture:
     id: 123
     name: furniture
+    permalink: furniture
     parent_id: 5
     type: Subcategory
     
 general:
     id: 124
     name: general
+    permalink: general
     parent_id: 5
     type: Subcategory
     
 jewelry:
     id: 125
     name: jewelry
+    permalink: jewelry
     parent_id: 5
     type: Subcategory
     
 materials:
     id: 126
     name: materials
+    permalink: materials
     parent_id: 5
     type: Subcategory
     
 rvs:
     id: 127
     name: rvs
+    permalink: rvs
     parent_id: 5
     type: Subcategory
     
 sporting:
     id: 128
     name: sporting
+    permalink: sporting
     parent_id: 5
     type: Subcategory
     
 tickets:
     id: 129
     name: tickets
+    permalink: tickets
     parent_id: 5
     type: Subcategory
     
 tools:
     id: 130
     name: tools
+    permalink: tools
     parent_id: 5
     type: Subcategory
     
 wanted:
     id: 131
     name: wanted
+    permalink: wanted
     parent_id: 5
     type: Subcategory
     
 arts+crafts:
     id: 132
     name: arts+crafts
+    permalink: arts+crafts
     parent_id: 5
     type: Subcategory
     
 auto parts:
     id: 133
     name: auto parts
+    permalink: auto parts
     parent_id: 5
     type: Subcategory
     
 baby+kids:
     id: 134
     name: baby+kids
+    permalink: baby+kids
     parent_id: 5
     type: Subcategory
     
 beauty+hlth:
     id: 135
     name: beauty+hlth
+    permalink: beauty+hlth
     parent_id: 5
     type: Subcategory
     
 cars+trucks:
     id: 136
     name: cars+trucks
+    permalink: cars+trucks
     parent_id: 5
     type: Subcategory
     
 cds/dvd/vhs:
     id: 137
     name: cds/dvd/vhs
+    permalink: cds/dvd/vhs
     parent_id: 5
     type: Subcategory
     
 cell phones:
     id: 138
     name: cell phones
+    permalink: cell phones
     parent_id: 5
     type: Subcategory
     
 clothes+acc:
     id: 139
     name: clothes+acc
+    permalink: clothes+acc
     parent_id: 5
     type: Subcategory
     
 collectibles:
     id: 140
     name: collectibles
+    permalink: collectibles
     parent_id: 5
     type: Subcategory
     
 electronics:
     id: 141
     name: electronics
+    permalink: electronics
     parent_id: 5
     type: Subcategory
     
 farm+garden:
     id: 142
     name: farm+garden
+    permalink: farm+garden
     parent_id: 5
     type: Subcategory
     
 garage sale:
     id: 143
     name: garage sale
+    permalink: garage sale
     parent_id: 5
     type: Subcategory
     
 household:
     id: 144
     name: household
+    permalink: household
     parent_id: 5
     type: Subcategory
     
 motorcycles:
     id: 145
     name: motorcycles
+    permalink: motorcycles
     parent_id: 5
     type: Subcategory
     
 music instr:
     id: 146
     name: music instr
+    permalink: music instr
     parent_id: 5
     type: Subcategory
     
 photo+video:
     id: 147
     name: photo+video
+    permalink: photo+video
     parent_id: 5
     type: Subcategory
     
 toys+games:
     id: 148
     name: toys+games
+    permalink: toys+games
     parent_id: 5
     type: Subcategory
     
 video gaming:
     id: 149
     name: video gaming
+    permalink: video gaming
     parent_id: 5
     type: Subcategory
     
 services:
     id: 6
     name: services
+    permalink: services
     parent_id: 0
     type: Category
     
 beauty:
     id: 150
     name: beauty
+    permalink: beauty
     parent_id: 6
     type: Subcategory
     
 creative:
     id: 151
     name: creative
+    permalink: creative
     parent_id: 6
     type: Subcategory
     
 computer:
     id: 152
     name: computer
+    permalink: computer
     parent_id: 6
     type: Subcategory
     
 cycle:
     id: 153
     name: cycle
+    permalink: cycle
     parent_id: 6
     type: Subcategory
     
 event:
     id: 154
     name: event
+    permalink: event
     parent_id: 6
     type: Subcategory
     
 financial:
     id: 155
     name: financial
+    permalink: financial
     parent_id: 6
     type: Subcategory
     
 legal:
     id: 156
     name: legal
+    permalink: legal
     parent_id: 6
     type: Subcategory
     
 lessons:
     id: 157
     name: lessons
+    permalink: lessons
     parent_id: 6
     type: Subcategory
     
 marine:
     id: 158
     name: marine
+    permalink: marine
     parent_id: 6
     type: Subcategory
     
 pet:
     id: 159
     name: pet
+    permalink: pet
     parent_id: 6
     type: Subcategory
     
 automotive:
     id: 160
     name: automotive
+    permalink: automotive
     parent_id: 6
     type: Subcategory
     
 farm+garden:
     id: 161
     name: farm+garden
+    permalink: farm+garden
     parent_id: 6
     type: Subcategory
     
 household:
     id: 162
     name: household
+    permalink: household
     parent_id: 6
     type: Subcategory
     
 labor/move:
     id: 163
     name: labor/move
+    permalink: labor/move
     parent_id: 6
     type: Subcategory
     
 skill&apos;d trade:
     id: 164
     name: skill&apos;d trade
+    permalink: skill&apos;d trade
     parent_id: 6
     type: Subcategory
     
 real estate:
     id: 165
     name: real estate
+    permalink: real estate
     parent_id: 6
     type: Subcategory
     
 sm biz ads:
     id: 166
     name: sm biz ads
+    permalink: sm biz ads
     parent_id: 6
     type: Subcategory
     
 therapeutic:
     id: 167
     name: therapeutic
+    permalink: therapeutic
     parent_id: 6
     type: Subcategory
     
 travel/vac:
     id: 168
     name: travel/vac
+    permalink: travel/vac
     parent_id: 6
     type: Subcategory
     
 write/ed/tr8:
     id: 169
     name: write/ed/tr8
+    permalink: write/ed/tr8
     parent_id: 6
     type: Subcategory
     
 jobs:
     id: 7
     name: jobs
+    permalink: jobs
     parent_id: 0
     type: Category
     
 accounting+finance:
     id: 170
     name: accounting+finance
+    permalink: accounting+finance
     parent_id: 7
     type: Subcategory
     
 admin / office:
     id: 171
     name: admin / office
+    permalink: admin / office
     parent_id: 7
     type: Subcategory
     
 arch / engineering:
     id: 172
     name: arch / engineering
+    permalink: arch / engineering
     parent_id: 7
     type: Subcategory
     
 art / media / design:
     id: 173
     name: art / media / design
+    permalink: art / media / design
     parent_id: 7
     type: Subcategory
     
 biotech / science:
     id: 174
     name: biotech / science
+    permalink: biotech / science
     parent_id: 7
     type: Subcategory
     
 business / mgmt:
     id: 175
     name: business / mgmt
+    permalink: business / mgmt
     parent_id: 7
     type: Subcategory
     
 customer service:
     id: 176
     name: customer service
+    permalink: customer service
     parent_id: 7
     type: Subcategory
     
 education:
     id: 177
     name: education
+    permalink: education
     parent_id: 7
     type: Subcategory
     
 food / bev / hosp:
     id: 178
     name: food / bev / hosp
+    permalink: food / bev / hosp
     parent_id: 7
     type: Subcategory
     
 general labor:
     id: 179
     name: general labor
+    permalink: general labor
     parent_id: 7
     type: Subcategory
     
 government:
     id: 180
     name: government
+    permalink: government
     parent_id: 7
     type: Subcategory
     
 human resources:
     id: 181
     name: human resources
+    permalink: human resources
     parent_id: 7
     type: Subcategory
     
 internet engineers:
     id: 182
     name: internet engineers
+    permalink: internet engineers
     parent_id: 7
     type: Subcategory
     
 legal  /  paralegal:
     id: 183
     name: legal  /  paralegal
+    permalink: legal  /  paralegal
     parent_id: 7
     type: Subcategory
     
 manufacturing:
     id: 184
     name: manufacturing
+    permalink: manufacturing
     parent_id: 7
     type: Subcategory
     
 marketing / pr / ad:
     id: 185
     name: marketing / pr / ad
+    permalink: marketing / pr / ad
     parent_id: 7
     type: Subcategory
     
 medical / health:
     id: 186
     name: medical / health
+    permalink: medical / health
     parent_id: 7
     type: Subcategory
     
 nonprofit sector:
     id: 187
     name: nonprofit sector
+    permalink: nonprofit sector
     parent_id: 7
     type: Subcategory
     
 real estate:
     id: 188
     name: real estate
+    permalink: real estate
     parent_id: 7
     type: Subcategory
     
 retail / wholesale:
     id: 189
     name: retail / wholesale
+    permalink: retail / wholesale
     parent_id: 7
     type: Subcategory
     
 sales / biz dev:
     id: 190
     name: sales / biz dev
+    permalink: sales / biz dev
     parent_id: 7
     type: Subcategory
     
 salon / spa / fitness:
     id: 191
     name: salon / spa / fitness
+    permalink: salon / spa / fitness
     parent_id: 7
     type: Subcategory
     
 security:
     id: 192
     name: security
+    permalink: security
     parent_id: 7
     type: Subcategory
     
 skilled trade / craft:
     id: 193
     name: skilled trade / craft
+    permalink: skilled trade / craft
     parent_id: 7
     type: Subcategory
     
 software / qa / dba:
     id: 194
     name: software / qa / dba
+    permalink: software / qa / dba
     parent_id: 7
     type: Subcategory
     
 systems / network:
     id: 195
     name: systems / network
+    permalink: systems / network
     parent_id: 7
     type: Subcategory
     
 technical support:
     id: 196
     name: technical support
+    permalink: technical support
     parent_id: 7
     type: Subcategory
     
 transport:
     id: 197
     name: transport
+    permalink: transport
     parent_id: 7
     type: Subcategory
     
 tv / film / video:
     id: 198
     name: tv / film / video
+    permalink: tv / film / video
     parent_id: 7
     type: Subcategory
     
 web / info design:
     id: 199
     name: web / info design
+    permalink: web / info design
     parent_id: 7
     type: Subcategory
     
 writing / editing:
     id: 200
     name: writing / editing
+    permalink: writing / editing
+    parent_id: 7
+    type: Subcategory
+    
+[ETC]:
+    id: 201
+    name: [ETC]
+    permalink: [ETC]
+    parent_id: 7
+    type: Subcategory
+    
+[ part-time ]:
+    id: 202
+    name: [ part-time ]
+    permalink: [ part-time ]
     parent_id: 7
     type: Subcategory
     
 gigs:
     id: 8
     name: gigs
+    permalink: gigs
     parent_id: 0
     type: Category
     
 crew:
     id: 203
     name: crew
+    permalink: crew
     parent_id: 8
     type: Subcategory
     
 event:
     id: 204
     name: event
+    permalink: event
     parent_id: 8
     type: Subcategory
     
 labor:
     id: 205
     name: labor
+    permalink: labor
     parent_id: 8
     type: Subcategory
     
 talent:
     id: 206
     name: talent
+    permalink: talent
     parent_id: 8
     type: Subcategory
     
 computer:
     id: 207
     name: computer
+    permalink: computer
     parent_id: 8
     type: Subcategory
     
 creative:
     id: 208
     name: creative
+    permalink: creative
     parent_id: 8
     type: Subcategory
     
 domestic:
     id: 209
     name: domestic
+    permalink: domestic
     parent_id: 8
     type: Subcategory
     
 writing:
     id: 210
     name: writing
+    permalink: writing
     parent_id: 8
     type: Subcategory
     
