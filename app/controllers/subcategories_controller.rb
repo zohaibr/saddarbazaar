@@ -4,7 +4,7 @@ class SubcategoriesController < ApplicationController
   layout 'main'
   
   def index
-    @subcategories = Subcategory.list
+    @subcategories = Subcategory.find(:all, :order=>'name ASC')
   end
 
   def new
