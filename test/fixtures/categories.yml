@@ -1,34 +1,42 @@
 community:
     id: 1
     name: community
+    parent_id: 0
     
 personals:
     id: 2
     name: personals
+    parent_id: 0
     
 discussion forums:
     id: 3
     name: discussion forums
+    parent_id: 0
     
 housing:
     id: 4
     name: housing
+    parent_id: 0
     
 for sale:
     id: 5
     name: for sale
+    parent_id: 0
     
 services:
     id: 6
     name: services
+    parent_id: 0
     
 jobs:
     id: 7
     name: jobs
+    parent_id: 0
     
 gigs:
     id: 8
     name: gigs
+    parent_id: 0
     
 activities:
     id: 10
