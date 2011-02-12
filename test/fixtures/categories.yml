@@ -1,1037 +1,1037 @@
 community:
-	id:0
-	name: community
+id:0
+name: community
 
 activities:
-	id: 10
-	name: activities
-	parent_category_id: 0
+id: 10
+name: activities
+parent_category_id: 0
 
 artists:
-	id: 11
-	name: artists
-	parent_category_id: 0
+id: 11
+name: artists
+parent_category_id: 0
 
 childcare:
-	id: 12
-	name: childcare
-	parent_category_id: 0
+id: 12
+name: childcare
+parent_category_id: 0
 
 general:
-	id: 13
-	name: general
-	parent_category_id: 0
+id: 13
+name: general
+parent_category_id: 0
 
 groups:
-	id: 14
-	name: groups
-	parent_category_id: 0
+id: 14
+name: groups
+parent_category_id: 0
 
 pets:
-	id: 15
-	name: pets
-	parent_category_id: 0
+id: 15
+name: pets
+parent_category_id: 0
 
 events:
-	id: 16
-	name: events
-	parent_category_id: 0
+id: 16
+name: events
+parent_category_id: 0
 
 lost+found:
-	id: 17
-	name: lost+found
-	parent_category_id: 0
+id: 17
+name: lost+found
+parent_category_id: 0
 
 musicians:
-	id: 18
-	name: musicians
-	parent_category_id: 0
+id: 18
+name: musicians
+parent_category_id: 0
 
 local news:
-	id: 19
-	name: local news
-	parent_category_id: 0
+id: 19
+name: local news
+parent_category_id: 0
 
 politics:
-	id: 20
-	name: politics
-	parent_category_id: 0
+id: 20
+name: politics
+parent_category_id: 0
 
 rideshare:
-	id: 21
-	name: rideshare
-	parent_category_id: 0
+id: 21
+name: rideshare
+parent_category_id: 0
 
 volunteers:
-	id: 22
-	name: volunteers
-	parent_category_id: 0
+id: 22
+name: volunteers
+parent_category_id: 0
 
 classes:
-	id: 23
-	name: classes
-	parent_category_id: 0
+id: 23
+name: classes
+parent_category_id: 0
 
 personals:
-	id:1
-	name: personals
+id:1
+name: personals
 
 strictly platonic:
-	id: 24
-	name: strictly platonic
-	parent_category_id: 1
+id: 24
+name: strictly platonic
+parent_category_id: 1
 
 women seek women:
-	id: 25
-	name: women seek women
-	parent_category_id: 1
+id: 25
+name: women seek women
+parent_category_id: 1
 
 women seeking men:
-	id: 26
-	name: women seeking men
-	parent_category_id: 1
+id: 26
+name: women seeking men
+parent_category_id: 1
 
 men seeking women:
-	id: 27
-	name: men seeking women
-	parent_category_id: 1
+id: 27
+name: men seeking women
+parent_category_id: 1
 
 men seeking men:
-	id: 28
-	name: men seeking men
-	parent_category_id: 1
+id: 28
+name: men seeking men
+parent_category_id: 1
 
 misc romance:
-	id: 29
-	name: misc romance
-	parent_category_id: 1
+id: 29
+name: misc romance
+parent_category_id: 1
 
 casual encounters:
-	id: 30
-	name: casual encounters
-	parent_category_id: 1
+id: 30
+name: casual encounters
+parent_category_id: 1
 
 missed connections:
-	id: 31
-	name: missed connections
-	parent_category_id: 1
+id: 31
+name: missed connections
+parent_category_id: 1
 
 rants and raves:
-	id: 32
-	name: rants and raves
-	parent_category_id: 1
+id: 32
+name: rants and raves
+parent_category_id: 1
 
 discussion forums:
-	id:2
-	name: discussion forums
+id:2
+name: discussion forums
 
 1099:
-	id: 33
-	name: 1099
-	parent_category_id: 2
+id: 33
+name: 1099
+parent_category_id: 2
 
 apple:
-	id: 34
-	name: apple
-	parent_category_id: 2
+id: 34
+name: apple
+parent_category_id: 2
 
 arts:
-	id: 35
-	name: arts
-	parent_category_id: 2
+id: 35
+name: arts
+parent_category_id: 2
 
 atheist:
-	id: 36
-	name: atheist
-	parent_category_id: 2
+id: 36
+name: atheist
+parent_category_id: 2
 
 autos:
-	id: 37
-	name: autos
-	parent_category_id: 2
+id: 37
+name: autos
+parent_category_id: 2
 
 beauty:
-	id: 38
-	name: beauty
-	parent_category_id: 2
+id: 38
+name: beauty
+parent_category_id: 2
 
 bikes:
-	id: 39
-	name: bikes
-	parent_category_id: 2
+id: 39
+name: bikes
+parent_category_id: 2
 
 celebs:
-	id: 40
-	name: celebs
-	parent_category_id: 2
+id: 40
+name: celebs
+parent_category_id: 2
 
 comp:
-	id: 41
-	name: comp
-	parent_category_id: 2
+id: 41
+name: comp
+parent_category_id: 2
 
 crafts:
-	id: 42
-	name: crafts
-	parent_category_id: 2
+id: 42
+name: crafts
+parent_category_id: 2
 
 diet:
-	id: 43
-	name: diet
-	parent_category_id: 2
+id: 43
+name: diet
+parent_category_id: 2
 
 divorce:
-	id: 44
-	name: divorce
-	parent_category_id: 2
+id: 44
+name: divorce
+parent_category_id: 2
 
 dying:
-	id: 45
-	name: dying
-	parent_category_id: 2
+id: 45
+name: dying
+parent_category_id: 2
 
 eco:
-	id: 46
-	name: eco
-	parent_category_id: 2
+id: 46
+name: eco
+parent_category_id: 2
 
 educ:
-	id: 47
-	name: educ
-	parent_category_id: 2
+id: 47
+name: educ
+parent_category_id: 2
 
 etiquet:
-	id: 48
-	name: etiquet
-	parent_category_id: 2
+id: 48
+name: etiquet
+parent_category_id: 2
 
 feedbk:
-	id: 49
-	name: feedbk
-	parent_category_id: 2
+id: 49
+name: feedbk
+parent_category_id: 2
 
 film:
-	id: 50
-	name: film
-	parent_category_id: 2
+id: 50
+name: film
+parent_category_id: 2
 
 fitness:
-	id: 51
-	name: fitness
-	parent_category_id: 2
+id: 51
+name: fitness
+parent_category_id: 2
 
 fixit:
-	id: 52
-	name: fixit
-	parent_category_id: 2
+id: 52
+name: fixit
+parent_category_id: 2
 
 food:
-	id: 53
-	name: food
-	parent_category_id: 2
+id: 53
+name: food
+parent_category_id: 2
 
 frugal:
-	id: 54
-	name: frugal
-	parent_category_id: 2
+id: 54
+name: frugal
+parent_category_id: 2
 
 gaming:
-	id: 55
-	name: gaming
-	parent_category_id: 2
+id: 55
+name: gaming
+parent_category_id: 2
 
 garden:
-	id: 56
-	name: garden
-	parent_category_id: 2
+id: 56
+name: garden
+parent_category_id: 2
 
 gifts:
-	id: 57
-	name: gifts
-	parent_category_id: 2
+id: 57
+name: gifts
+parent_category_id: 2
 
 haiku:
-	id: 58
-	name: haiku
-	parent_category_id: 2
+id: 58
+name: haiku
+parent_category_id: 2
 
 health:
-	id: 59
-	name: health
-	parent_category_id: 2
+id: 59
+name: health
+parent_category_id: 2
 
 help:
-	id: 60
-	name: help
-	parent_category_id: 2
+id: 60
+name: help
+parent_category_id: 2
 
 history:
-	id: 61
-	name: history
-	parent_category_id: 2
+id: 61
+name: history
+parent_category_id: 2
 
 housing:
-	id: 62
-	name: housing
-	parent_category_id: 2
+id: 62
+name: housing
+parent_category_id: 2
 
 jobs:
-	id: 63
-	name: jobs
-	parent_category_id: 2
+id: 63
+name: jobs
+parent_category_id: 2
 
 jokes:
-	id: 64
-	name: jokes
-	parent_category_id: 2
+id: 64
+name: jokes
+parent_category_id: 2
 
 kink:
-	id: 65
-	name: kink
-	parent_category_id: 2
+id: 65
+name: kink
+parent_category_id: 2
 
 l.t.r.:
-	id: 66
-	name: l.t.r.
-	parent_category_id: 2
+id: 66
+name: l.t.r.
+parent_category_id: 2
 
 legal:
-	id: 67
-	name: legal
-	parent_category_id: 2
+id: 67
+name: legal
+parent_category_id: 2
 
 linux:
-	id: 68
-	name: linux
-	parent_category_id: 2
+id: 68
+name: linux
+parent_category_id: 2
 
 loc pol:
-	id: 69
-	name: loc pol
-	parent_category_id: 2
+id: 69
+name: loc pol
+parent_category_id: 2
 
 m4m:
-	id: 70
-	name: m4m
-	parent_category_id: 2
+id: 70
+name: m4m
+parent_category_id: 2
 
 money:
-	id: 71
-	name: money
-	parent_category_id: 2
+id: 71
+name: money
+parent_category_id: 2
 
 motocy:
-	id: 72
-	name: motocy
-	parent_category_id: 2
+id: 72
+name: motocy
+parent_category_id: 2
 
 music:
-	id: 73
-	name: music
-	parent_category_id: 2
+id: 73
+name: music
+parent_category_id: 2
 
 npo:
-	id: 74
-	name: npo
-	parent_category_id: 2
+id: 74
+name: npo
+parent_category_id: 2
 
 open:
-	id: 75
-	name: open
-	parent_category_id: 2
+id: 75
+name: open
+parent_category_id: 2
 
 outdoor:
-	id: 76
-	name: outdoor
-	parent_category_id: 2
+id: 76
+name: outdoor
+parent_category_id: 2
 
 over 50:
-	id: 77
-	name: over 50
-	parent_category_id: 2
+id: 77
+name: over 50
+parent_category_id: 2
 
 p.o.c.:
-	id: 78
-	name: p.o.c.
-	parent_category_id: 2
+id: 78
+name: p.o.c.
+parent_category_id: 2
 
 parent:
-	id: 79
-	name: parent
-	parent_category_id: 2
+id: 79
+name: parent
+parent_category_id: 2
 
 pefo:
-	id: 80
-	name: pefo
-	parent_category_id: 2
+id: 80
+name: pefo
+parent_category_id: 2
 
 pets:
-	id: 81
-	name: pets
-	parent_category_id: 2
+id: 81
+name: pets
+parent_category_id: 2
 
 philos:
-	id: 82
-	name: philos
-	parent_category_id: 2
+id: 82
+name: philos
+parent_category_id: 2
 
 politic:
-	id: 83
-	name: politic
-	parent_category_id: 2
+id: 83
+name: politic
+parent_category_id: 2
 
 psych:
-	id: 84
-	name: psych
-	parent_category_id: 2
+id: 84
+name: psych
+parent_category_id: 2
 
 queer:
-	id: 85
-	name: queer
-	parent_category_id: 2
+id: 85
+name: queer
+parent_category_id: 2
 
 recover:
-	id: 86
-	name: recover
-	parent_category_id: 2
+id: 86
+name: recover
+parent_category_id: 2
 
 religion:
-	id: 87
-	name: religion
-	parent_category_id: 2
+id: 87
+name: religion
+parent_category_id: 2
 
 rofo:
-	id: 88
-	name: rofo
-	parent_category_id: 2
+id: 88
+name: rofo
+parent_category_id: 2
 
 science:
-	id: 89
-	name: science
-	parent_category_id: 2
+id: 89
+name: science
+parent_category_id: 2
 
 shop:
-	id: 90
-	name: shop
-	parent_category_id: 2
+id: 90
+name: shop
+parent_category_id: 2
 
 spirit:
-	id: 91
-	name: spirit
-	parent_category_id: 2
+id: 91
+name: spirit
+parent_category_id: 2
 
 sports:
-	id: 92
-	name: sports
-	parent_category_id: 2
+id: 92
+name: sports
+parent_category_id: 2
 
 t.v.:
-	id: 93
-	name: t.v.
-	parent_category_id: 2
+id: 93
+name: t.v.
+parent_category_id: 2
 
 tax:
-	id: 94
-	name: tax
-	parent_category_id: 2
+id: 94
+name: tax
+parent_category_id: 2
 
 testing:
-	id: 95
-	name: testing
-	parent_category_id: 2
+id: 95
+name: testing
+parent_category_id: 2
 
 transg:
-	id: 96
-	name: transg
-	parent_category_id: 2
+id: 96
+name: transg
+parent_category_id: 2
 
 travel:
-	id: 97
-	name: travel
-	parent_category_id: 2
+id: 97
+name: travel
+parent_category_id: 2
 
 vegan:
-	id: 98
-	name: vegan
-	parent_category_id: 2
+id: 98
+name: vegan
+parent_category_id: 2
 
 w4w:
-	id: 99
-	name: w4w
-	parent_category_id: 2
+id: 99
+name: w4w
+parent_category_id: 2
 
 wed:
-	id: 100
-	name: wed
-	parent_category_id: 2
+id: 100
+name: wed
+parent_category_id: 2
 
 wine:
-	id: 101
-	name: wine
-	parent_category_id: 2
+id: 101
+name: wine
+parent_category_id: 2
 
 women:
-	id: 102
-	name: women
-	parent_category_id: 2
+id: 102
+name: women
+parent_category_id: 2
 
 words:
-	id: 103
-	name: words
-	parent_category_id: 2
+id: 103
+name: words
+parent_category_id: 2
 
 writers:
-	id: 104
-	name: writers
-	parent_category_id: 2
+id: 104
+name: writers
+parent_category_id: 2
 
 housing:
-	id:3
-	name: housing
+id:3
+name: housing
 
 apts / housing:
-	id: 105
-	name: apts / housing
-	parent_category_id: 3
+id: 105
+name: apts / housing
+parent_category_id: 3
 
 rooms / shared:
-	id: 106
-	name: rooms / shared
-	parent_category_id: 3
+id: 106
+name: rooms / shared
+parent_category_id: 3
 
 sublets / temporary:
-	id: 107
-	name: sublets / temporary
-	parent_category_id: 3
+id: 107
+name: sublets / temporary
+parent_category_id: 3
 
 housing wanted:
-	id: 108
-	name: housing wanted
-	parent_category_id: 3
+id: 108
+name: housing wanted
+parent_category_id: 3
 
 housing swap:
-	id: 109
-	name: housing swap
-	parent_category_id: 3
+id: 109
+name: housing swap
+parent_category_id: 3
 
 vacation rentals:
-	id: 110
-	name: vacation rentals
-	parent_category_id: 3
+id: 110
+name: vacation rentals
+parent_category_id: 3
 
 parking / storage:
-	id: 111
-	name: parking / storage
-	parent_category_id: 3
+id: 111
+name: parking / storage
+parent_category_id: 3
 
 office / commercial:
-	id: 112
-	name: office / commercial
-	parent_category_id: 3
+id: 112
+name: office / commercial
+parent_category_id: 3
 
 real estate for sale:
-	id: 113
-	name: real estate for sale
-	parent_category_id: 3
+id: 113
+name: real estate for sale
+parent_category_id: 3
 
 for sale:
-	id:4
-	name: for sale
+id:4
+name: for sale
 
 appliances:
-	id: 114
-	name: appliances
-	parent_category_id: 4
+id: 114
+name: appliances
+parent_category_id: 4
 
 antiques:
-	id: 115
-	name: antiques
-	parent_category_id: 4
+id: 115
+name: antiques
+parent_category_id: 4
 
 barter:
-	id: 116
-	name: barter
-	parent_category_id: 4
+id: 116
+name: barter
+parent_category_id: 4
 
 bikes:
-	id: 117
-	name: bikes
-	parent_category_id: 4
+id: 117
+name: bikes
+parent_category_id: 4
 
 boats:
-	id: 118
-	name: boats
-	parent_category_id: 4
+id: 118
+name: boats
+parent_category_id: 4
 
 books:
-	id: 119
-	name: books
-	parent_category_id: 4
+id: 119
+name: books
+parent_category_id: 4
 
 business:
-	id: 120
-	name: business
-	parent_category_id: 4
+id: 120
+name: business
+parent_category_id: 4
 
 computer:
-	id: 121
-	name: computer
-	parent_category_id: 4
+id: 121
+name: computer
+parent_category_id: 4
 
 free:
-	id: 122
-	name: free
-	parent_category_id: 4
+id: 122
+name: free
+parent_category_id: 4
 
 furniture:
-	id: 123
-	name: furniture
-	parent_category_id: 4
+id: 123
+name: furniture
+parent_category_id: 4
 
 general:
-	id: 124
-	name: general
-	parent_category_id: 4
+id: 124
+name: general
+parent_category_id: 4
 
 jewelry:
-	id: 125
-	name: jewelry
-	parent_category_id: 4
+id: 125
+name: jewelry
+parent_category_id: 4
 
 materials:
-	id: 126
-	name: materials
-	parent_category_id: 4
+id: 126
+name: materials
+parent_category_id: 4
 
 rvs:
-	id: 127
-	name: rvs
-	parent_category_id: 4
+id: 127
+name: rvs
+parent_category_id: 4
 
 sporting:
-	id: 128
-	name: sporting
-	parent_category_id: 4
+id: 128
+name: sporting
+parent_category_id: 4
 
 tickets:
-	id: 129
-	name: tickets
-	parent_category_id: 4
+id: 129
+name: tickets
+parent_category_id: 4
 
 tools:
-	id: 130
-	name: tools
-	parent_category_id: 4
+id: 130
+name: tools
+parent_category_id: 4
 
 wanted:
-	id: 131
-	name: wanted
-	parent_category_id: 4
+id: 131
+name: wanted
+parent_category_id: 4
 
 arts+crafts:
-	id: 132
-	name: arts+crafts
-	parent_category_id: 4
+id: 132
+name: arts+crafts
+parent_category_id: 4
 
 auto parts:
-	id: 133
-	name: auto parts
-	parent_category_id: 4
+id: 133
+name: auto parts
+parent_category_id: 4
 
 baby+kids:
-	id: 134
-	name: baby+kids
-	parent_category_id: 4
+id: 134
+name: baby+kids
+parent_category_id: 4
 
 beauty+hlth:
-	id: 135
-	name: beauty+hlth
-	parent_category_id: 4
+id: 135
+name: beauty+hlth
+parent_category_id: 4
 
 cars+trucks:
-	id: 136
-	name: cars+trucks
-	parent_category_id: 4
+id: 136
+name: cars+trucks
+parent_category_id: 4
 
 cds/dvd/vhs:
-	id: 137
-	name: cds/dvd/vhs
-	parent_category_id: 4
+id: 137
+name: cds/dvd/vhs
+parent_category_id: 4
 
 cell phones:
-	id: 138
-	name: cell phones
-	parent_category_id: 4
+id: 138
+name: cell phones
+parent_category_id: 4
 
 clothes+acc:
-	id: 139
-	name: clothes+acc
-	parent_category_id: 4
+id: 139
+name: clothes+acc
+parent_category_id: 4
 
 collectibles:
-	id: 140
-	name: collectibles
-	parent_category_id: 4
+id: 140
+name: collectibles
+parent_category_id: 4
 
 electronics:
-	id: 141
-	name: electronics
-	parent_category_id: 4
+id: 141
+name: electronics
+parent_category_id: 4
 
 farm+garden:
-	id: 142
-	name: farm+garden
-	parent_category_id: 4
+id: 142
+name: farm+garden
+parent_category_id: 4
 
 garage sale:
-	id: 143
-	name: garage sale
-	parent_category_id: 4
+id: 143
+name: garage sale
+parent_category_id: 4
 
 household:
-	id: 144
-	name: household
-	parent_category_id: 4
+id: 144
+name: household
+parent_category_id: 4
 
 motorcycles:
-	id: 145
-	name: motorcycles
-	parent_category_id: 4
+id: 145
+name: motorcycles
+parent_category_id: 4
 
 music instr:
-	id: 146
-	name: music instr
-	parent_category_id: 4
+id: 146
+name: music instr
+parent_category_id: 4
 
 photo+video:
-	id: 147
-	name: photo+video
-	parent_category_id: 4
+id: 147
+name: photo+video
+parent_category_id: 4
 
 toys+games:
-	id: 148
-	name: toys+games
-	parent_category_id: 4
+id: 148
+name: toys+games
+parent_category_id: 4
 
 video gaming:
-	id: 149
-	name: video gaming
-	parent_category_id: 4
+id: 149
+name: video gaming
+parent_category_id: 4
 
 services:
-	id:5
-	name: services
+id:5
+name: services
 
 beauty:
-	id: 150
-	name: beauty
-	parent_category_id: 5
+id: 150
+name: beauty
+parent_category_id: 5
 
 creative:
-	id: 151
-	name: creative
-	parent_category_id: 5
+id: 151
+name: creative
+parent_category_id: 5
 
 computer:
-	id: 152
-	name: computer
-	parent_category_id: 5
+id: 152
+name: computer
+parent_category_id: 5
 
 cycle:
-	id: 153
-	name: cycle
-	parent_category_id: 5
+id: 153
+name: cycle
+parent_category_id: 5
 
 event:
-	id: 154
-	name: event
-	parent_category_id: 5
+id: 154
+name: event
+parent_category_id: 5
 
 financial:
-	id: 155
-	name: financial
-	parent_category_id: 5
+id: 155
+name: financial
+parent_category_id: 5
 
 legal:
-	id: 156
-	name: legal
-	parent_category_id: 5
+id: 156
+name: legal
+parent_category_id: 5
 
 lessons:
-	id: 157
-	name: lessons
-	parent_category_id: 5
+id: 157
+name: lessons
+parent_category_id: 5
 
 marine:
-	id: 158
-	name: marine
-	parent_category_id: 5
+id: 158
+name: marine
+parent_category_id: 5
 
 pet:
-	id: 159
-	name: pet
-	parent_category_id: 5
+id: 159
+name: pet
+parent_category_id: 5
 
 automotive:
-	id: 160
-	name: automotive
-	parent_category_id: 5
+id: 160
+name: automotive
+parent_category_id: 5
 
 farm+garden:
-	id: 161
-	name: farm+garden
-	parent_category_id: 5
+id: 161
+name: farm+garden
+parent_category_id: 5
 
 household:
-	id: 162
-	name: household
-	parent_category_id: 5
+id: 162
+name: household
+parent_category_id: 5
 
 labor/move:
-	id: 163
-	name: labor/move
-	parent_category_id: 5
+id: 163
+name: labor/move
+parent_category_id: 5
 
 skill&apos;d trade:
-	id: 164
-	name: skill&apos;d trade
-	parent_category_id: 5
+id: 164
+name: skill&apos;d trade
+parent_category_id: 5
 
 real estate:
-	id: 165
-	name: real estate
-	parent_category_id: 5
+id: 165
+name: real estate
+parent_category_id: 5
 
 sm biz ads:
-	id: 166
-	name: sm biz ads
-	parent_category_id: 5
+id: 166
+name: sm biz ads
+parent_category_id: 5
 
 therapeutic:
-	id: 167
-	name: therapeutic
-	parent_category_id: 5
+id: 167
+name: therapeutic
+parent_category_id: 5
 
 travel/vac:
-	id: 168
-	name: travel/vac
-	parent_category_id: 5
+id: 168
+name: travel/vac
+parent_category_id: 5
 
 write/ed/tr8:
-	id: 169
-	name: write/ed/tr8
-	parent_category_id: 5
+id: 169
+name: write/ed/tr8
+parent_category_id: 5
 
 jobs:
-	id:6
-	name: jobs
+id:6
+name: jobs
 
 accounting+finance:
-	id: 170
-	name: accounting+finance
-	parent_category_id: 6
+id: 170
+name: accounting+finance
+parent_category_id: 6
 
 admin / office:
-	id: 171
-	name: admin / office
-	parent_category_id: 6
+id: 171
+name: admin / office
+parent_category_id: 6
 
 arch / engineering:
-	id: 172
-	name: arch / engineering
-	parent_category_id: 6
+id: 172
+name: arch / engineering
+parent_category_id: 6
 
 art / media / design:
-	id: 173
-	name: art / media / design
-	parent_category_id: 6
+id: 173
+name: art / media / design
+parent_category_id: 6
 
 biotech / science:
-	id: 174
-	name: biotech / science
-	parent_category_id: 6
+id: 174
+name: biotech / science
+parent_category_id: 6
 
 business / mgmt:
-	id: 175
-	name: business / mgmt
-	parent_category_id: 6
+id: 175
+name: business / mgmt
+parent_category_id: 6
 
 customer service:
-	id: 176
-	name: customer service
-	parent_category_id: 6
+id: 176
+name: customer service
+parent_category_id: 6
 
 education:
-	id: 177
-	name: education
-	parent_category_id: 6
+id: 177
+name: education
+parent_category_id: 6
 
 food / bev / hosp:
-	id: 178
-	name: food / bev / hosp
-	parent_category_id: 6
+id: 178
+name: food / bev / hosp
+parent_category_id: 6
 
 general labor:
-	id: 179
-	name: general labor
-	parent_category_id: 6
+id: 179
+name: general labor
+parent_category_id: 6
 
 government:
-	id: 180
-	name: government
-	parent_category_id: 6
+id: 180
+name: government
+parent_category_id: 6
 
 human resources:
-	id: 181
-	name: human resources
-	parent_category_id: 6
+id: 181
+name: human resources
+parent_category_id: 6
 
 internet engineers:
-	id: 182
-	name: internet engineers
-	parent_category_id: 6
+id: 182
+name: internet engineers
+parent_category_id: 6
 
 legal  /  paralegal:
-	id: 183
-	name: legal  /  paralegal
-	parent_category_id: 6
+id: 183
+name: legal  /  paralegal
+parent_category_id: 6
 
 manufacturing:
-	id: 184
-	name: manufacturing
-	parent_category_id: 6
+id: 184
+name: manufacturing
+parent_category_id: 6
 
 marketing / pr / ad:
-	id: 185
-	name: marketing / pr / ad
-	parent_category_id: 6
+id: 185
+name: marketing / pr / ad
+parent_category_id: 6
 
 medical / health:
-	id: 186
-	name: medical / health
-	parent_category_id: 6
+id: 186
+name: medical / health
+parent_category_id: 6
 
 nonprofit sector:
-	id: 187
-	name: nonprofit sector
-	parent_category_id: 6
+id: 187
+name: nonprofit sector
+parent_category_id: 6
 
 real estate:
-	id: 188
-	name: real estate
-	parent_category_id: 6
+id: 188
+name: real estate
+parent_category_id: 6
 
 retail / wholesale:
-	id: 189
-	name: retail / wholesale
-	parent_category_id: 6
+id: 189
+name: retail / wholesale
+parent_category_id: 6
 
 sales / biz dev:
-	id: 190
-	name: sales / biz dev
-	parent_category_id: 6
+id: 190
+name: sales / biz dev
+parent_category_id: 6
 
 salon / spa / fitness:
-	id: 191
-	name: salon / spa / fitness
-	parent_category_id: 6
+id: 191
+name: salon / spa / fitness
+parent_category_id: 6
 
 security:
-	id: 192
-	name: security
-	parent_category_id: 6
+id: 192
+name: security
+parent_category_id: 6
 
 skilled trade / craft:
-	id: 193
-	name: skilled trade / craft
-	parent_category_id: 6
+id: 193
+name: skilled trade / craft
+parent_category_id: 6
 
 software / qa / dba:
-	id: 194
-	name: software / qa / dba
-	parent_category_id: 6
+id: 194
+name: software / qa / dba
+parent_category_id: 6
 
 systems / network:
-	id: 195
-	name: systems / network
-	parent_category_id: 6
+id: 195
+name: systems / network
+parent_category_id: 6
 
 technical support:
-	id: 196
-	name: technical support
-	parent_category_id: 6
+id: 196
+name: technical support
+parent_category_id: 6
 
 transport:
-	id: 197
-	name: transport
-	parent_category_id: 6
+id: 197
+name: transport
+parent_category_id: 6
 
 tv / film / video:
-	id: 198
-	name: tv / film / video
-	parent_category_id: 6
+id: 198
+name: tv / film / video
+parent_category_id: 6
 
 web / info design:
-	id: 199
-	name: web / info design
-	parent_category_id: 6
+id: 199
+name: web / info design
+parent_category_id: 6
 
 writing / editing:
-	id: 200
-	name: writing / editing
-	parent_category_id: 6
+id: 200
+name: writing / editing
+parent_category_id: 6
 
 [ETC]:
-	id: 201
-	name: [ETC]
-	parent_category_id: 6
+id: 201
+name: [ETC]
+parent_category_id: 6
 
 [ part-time ]:
-	id: 202
-	name: [ part-time ]
-	parent_category_id: 6
+id: 202
+name: [ part-time ]
+parent_category_id: 6
 
 gigs:
-	id:7
-	name: gigs
+id:7
+name: gigs
 
 crew:
-	id: 203
-	name: crew
-	parent_category_id: 7
+id: 203
+name: crew
+parent_category_id: 7
 
 event:
-	id: 204
-	name: event
-	parent_category_id: 7
+id: 204
+name: event
+parent_category_id: 7
 
 labor:
-	id: 205
-	name: labor
-	parent_category_id: 7
+id: 205
+name: labor
+parent_category_id: 7
 
 talent:
-	id: 206
-	name: talent
-	parent_category_id: 7
+id: 206
+name: talent
+parent_category_id: 7
 
 computer:
-	id: 207
-	name: computer
-	parent_category_id: 7
+id: 207
+name: computer
+parent_category_id: 7
 
 creative:
-	id: 208
-	name: creative
-	parent_category_id: 7
+id: 208
+name: creative
+parent_category_id: 7
 
 domestic:
-	id: 209
-	name: domestic
-	parent_category_id: 7
+id: 209
+name: domestic
+parent_category_id: 7
 
 writing:
-	id: 210
-	name: writing
-	parent_category_id: 7
+id: 210
+name: writing
+parent_category_id: 7
 
