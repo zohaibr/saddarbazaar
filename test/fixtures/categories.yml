@@ -981,14 +981,14 @@ writing / editing:
     name: writing / editing
     parent_category_id: 6
     
-[ETC]:
+ETC:
     id: 201
-    name: [ETC]
+    name: ETC
     parent_category_id: 6
     
-[ part-time ]:
+part-time:
     id: 202
-    name: [ part-time ]
+    name: part-time
     parent_category_id: 6
     
 gigs:
