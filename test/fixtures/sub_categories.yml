@@ -1,0 +1,32 @@
+community:
+    id: 1
+    name: community
+    
+personals:
+    id: 2
+    name: personals
+    
+discussion forums:
+    id: 3
+    name: discussion forums
+    
+housing:
+    id: 4
+    name: housing
+    
+for sale:
+    id: 5
+    name: for sale
+    
+services:
+    id: 6
+    name: services
+    
+jobs:
+    id: 7
+    name: jobs
+    
+gigs:
+    id: 8
+    name: gigs
+    

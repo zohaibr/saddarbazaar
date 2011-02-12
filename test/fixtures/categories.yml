@@ -2,6 +2,34 @@ community:
     id: 1
     name: community
     
+personals:
+    id: 2
+    name: personals
+    
+discussion forums:
+    id: 3
+    name: discussion forums
+    
+housing:
+    id: 4
+    name: housing
+    
+for sale:
+    id: 5
+    name: for sale
+    
+services:
+    id: 6
+    name: services
+    
+jobs:
+    id: 7
+    name: jobs
+    
+gigs:
+    id: 8
+    name: gigs
+    
 activities:
     id: 10
     name: activities
@@ -72,10 +100,6 @@ classes:
     name: classes
     parent_id: 1
     
-personals:
-    id: 2
-    name: personals
-    
 strictly platonic:
     id: 24
     name: strictly platonic
@@ -120,10 +144,6 @@ rants and raves:
     id: 32
     name: rants and raves
     parent_id: 2
-    
-discussion forums:
-    id: 3
-    name: discussion forums
     
 1099:
     id: 33
@@ -485,10 +505,6 @@ writers:
     name: writers
     parent_id: 3
     
-housing:
-    id: 4
-    name: housing
-    
 apts / housing:
     id: 105
     name: apts / housing
@@ -533,10 +549,6 @@ real estate for sale:
     id: 113
     name: real estate for sale
     parent_id: 4
-    
-for sale:
-    id: 5
-    name: for sale
     
 appliances:
     id: 114
@@ -718,10 +730,6 @@ video gaming:
     name: video gaming
     parent_id: 5
     
-services:
-    id: 6
-    name: services
-    
 beauty:
     id: 150
     name: beauty
@@ -821,10 +829,6 @@ write/ed/tr8:
     id: 169
     name: write/ed/tr8
     parent_id: 6
-    
-jobs:
-    id: 7
-    name: jobs
     
 accounting+finance:
     id: 170
@@ -981,10 +985,6 @@ writing / editing:
     name: writing / editing
     parent_id: 7
     
-gigs:
-    id: 8
-    name: gigs
-    
 crew:
     id: 203
     name: crew
@@ -1025,3 +1025,4 @@ writing:
     name: writing
     parent_id: 8
     
+
